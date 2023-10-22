@@ -103,9 +103,9 @@ const Header = () => {
         </div>
         {/* Button */}
         <div>
-          <btn className=" text-primary-color cursor-pointer font-semibold rounded-md p-3 border border-primary-color">
+          <button className=" text-primary-color cursor-pointer font-semibold rounded-md p-3 border border-primary-color">
             Appointment
-          </btn>
+          </button>
         </div>
       </div>
     </div>
