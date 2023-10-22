@@ -1,0 +1,53 @@
+[
+    {
+        "_id": 1,
+        "service_id": "04",
+        "title": "Car Engine Plug",
+        "img": "https://i.ibb.co/fp38kGq/1.png",
+        "price": "10.00",
+        "rating": 5
+    
+    },
+    {
+        "_id": 2,
+        "service_id": "05",
+        "title": "Car Air Filter",
+        "img": "https://i.ibb.co/hCKFGsd/2.png",
+        "price": "20.00",
+        "rating": 4
+    },
+    {
+        "_id": 3,
+        "service_id": "01",
+        "title": "Cools LED Light",
+        "img": "https://i.ibb.co/rmSZVSL/3.png",
+        "price": "20.00",
+        "rating": 5
+    },
+    {
+        "_id": "4",
+        "service_id": "02",
+        "title": "Engine Repair",
+        "img": "https://i.ibb.co/9bXt1yX/4.png",
+        "price": "15.00",
+        "rating": 4
+        
+    },
+    {
+        "_id": 5,
+        "service_id": "03",
+        "title": "Automatic Services",
+        "img": "https://i.ibb.co/n1pZ23X/5.png",
+        "price": "30.00",
+        "rating": 5
+    },
+    {
+        "_id": 6,
+        "service_id": "06",
+        "title": "Electrical System",
+        "img": "https://i.ibb.co/Pgj8XQY/6.png",
+        "price": "20.00",
+        "rating": 4
+        
+    }
+]

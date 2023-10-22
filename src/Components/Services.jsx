@@ -15,7 +15,7 @@ const Services = () => {
   return (
     <div className="text-center mt-20 lg:mt-32">
       <h2 className="text-primary-color font-semibold">Services</h2>
-      <div className="space-y-2">
+      <div className="space-y-2 mt-5">
         <h2 className="text-4xl font-bold">Our Service Areas</h2>
         <p className="text-[#737373] text-sm lg:w-1/2 mx-auto">
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse
@@ -45,7 +45,9 @@ const ServiceCards = ({ service }) => {
           <img src={img} alt={title} className="rounded-lg w-4/5" />
         </figure>
         <div className="card-body">
-          <h2 className="card-title text-2xl font-bold">{title}</h2>
+          <div className="flex justify-center">
+            <h2 className="card-title text-2xl font-bold">{title}</h2>
+          </div>
           <div className="flex justify-between items-center">
             <p className="text-primary-color font-semibold">Price: ${price}</p>
             <img src={arrow} alt="" />

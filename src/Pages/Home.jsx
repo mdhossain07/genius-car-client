@@ -1,6 +1,8 @@
 import AboutUs from "../Components/AboutUs";
+import Products from "../Components/Products";
 import Services from "../Components/Services";
 import Slider from "../Components/Slider";
+import Team from "../Components/Team";
 
 const Home = () => {
   return (
@@ -8,6 +10,8 @@ const Home = () => {
       <Slider />
       <AboutUs />
       <Services />
+      <Products />
+      <Team />
     </div>
   );
 };
